@@ -4,15 +4,15 @@
 
 ## 运行效果
 
-![image-20200705233745126](E:\vue\wms\demo\login.png)
+![image-20200705233745126](https://github.com/JammyLin/wms/blob/master/demo/login.png)
 
-![image-20200705233836207](E:\vue\wms\demo\register.png)
+![image-20200705233836207](https://github.com/JammyLin/wms/blob/master/demo/register.png)
 
-![image-20200705233632032](E:\vue\wms\demo\index.png)
+![image-20200705233632032](https://github.com/JammyLin/wms/blob/master/demo/index.png)
 
-![image-20200705233902866](E:\vue\wms\demo\dashboard.png)
+![image-20200705233902866](https://github.com/JammyLin/wms/blob/master/demo/dashboard.png)
 
-![image-20200705234014986](E:\vue\wms\demo\users.png)
+![image-20200705234014986](https://github.com/JammyLin/wms/blob/master/demo/users.png)
 
 ## Bug
 
