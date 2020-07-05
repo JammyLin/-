@@ -1,0 +1,42 @@
+# 物流仓储管理系统
+
+> 基于Nuxt.js框架开发，后端使用Koa2框架，简单模拟了物流仓储管理。
+
+## 运行效果
+
+![image-20200705233745126](E:\vue\wms\demo\login.png)
+
+![image-20200705233836207](E:\vue\wms\demo\register.png)
+
+![image-20200705233632032](E:\vue\wms\demo\index.png)
+
+![image-20200705233902866](E:\vue\wms\demo\dashboard.png)
+
+![image-20200705234014986](E:\vue\wms\demo\users.png)
+
+## Bug
+
+部分页面加载时会请求两次后端接口，皆为无需传参接口。虽只是获取数据不影响业务，如有解决方法希望可告知，让我知晓。
+
+## 运行准备
+
+```bash
+# 安装依赖
+$ yarn install/npm install
+
+# 开发模式运行
+$ yarn dev/npm run dev
+
+# 打包运行
+$ yarn build/npm run build
+$ yarn start/npm run start
+```
+
+> 数据库使用sequelize，可自动生成表，在server/database/index.js尾部添加
+>
+> ```
+> sequelize.sync()
+> ```
+>
+> 即可。
+
